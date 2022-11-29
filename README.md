@@ -1,6 +1,6 @@
 👋 Hi, I’m @gregcloud
 
-I’m a data analyst located in Poland. I have a serious passion for:
+I’m a data analyst from Poland (Central Europe). I have a serious passion for:
 - programming and packages,
 - data visualization,
 - machine learning,
